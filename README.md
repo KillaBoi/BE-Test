@@ -1,3 +1,5 @@
+requires apollo-server, graphql, sequelize, pg
+
 npx sequelize-cli db:migrate
 
 npm run start
