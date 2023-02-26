@@ -35,4 +35,3 @@ mutation {
     win
   }
 }
-
